@@ -6,7 +6,7 @@ Welcome to my data analyst portfolio! Here you'll find a collection of my favori
 
 - [😊 About Me](#-about-me)
 - [🚀 Projects](#-projects)
-- [🛠️ Skills](#-skills )
+- [🛠️ Skills](#-skills-1)
 - [📬 Contact](#-contact)
 
 ## 😊 About Me
