@@ -49,7 +49,7 @@ Hi there! I'm a passionate data analyst who loves diving into data to uncover hi
 I'm always excited to connect and collaborate! Feel free to reach out if you have any questions or just want to say hi!
 
 - **Email**: [gunadinagawijaya@gmail.com](mailto:gunadinagawijaya@gmail.com)
-- **LinkedIn**: [my-linkedin-profile](www.linkedin.com/in/gunadi-naga-wijaya-432226151)
+- **LinkedIn**: [my-linkedin-profile](https://www.linkedin.com/in/gunadi-naga-wijaya-432226151/)
 - **Portfolio Website**: [my-portfolio-summary](link-to-website)
 
 Thank you for visiting my portfolio! Have a fantastic day! 🎉
