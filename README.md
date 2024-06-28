@@ -4,10 +4,10 @@ Welcome to my data analyst portfolio! Here you'll find a collection of my favori
 
 ## 🌟 Table of Contents
 
-- [😊 About Me](#-about-me-1)
-- [🚀 Projects](#-projects-1)
-- [🛠️ Skills](#-skills-1)
-- [📬 Contact](#-contact-1)
+- [😊 About Me](#-about-me)
+- [🚀 Projects](#-projects)
+- [🛠️ Skills](#-skills)
+- [📬 Contact](#-contact)
 
 ## 😊 About Me
 
