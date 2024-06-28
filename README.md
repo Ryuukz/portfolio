@@ -37,12 +37,14 @@ Hi there! I'm a passionate data analyst who loves diving into data to uncover hi
 
 ## 🛠️ Skills
 
+Here's a bunch of skills required to do the analysis:
+
 - **Programming Languages**: Python, R, SQL
 - **Data Analysis**: Pandas, NumPy, dplyr
 - **Data Visualization**: Matplotlib, Seaborn, ggplot2
 - **Machine Learning**: Scikit-learn
 - **Databases**: MySQL, PostgreSQL
-- **Others**: Git, Tableau, Excel
+- **Others**: Tableau, Excel
 
 ## 📬 Contact
 
