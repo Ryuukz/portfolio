@@ -19,7 +19,7 @@ Hi there! I'm a passionate data analyst who loves diving into data to uncover hi
 - **Description**: Diving into sales data to uncover trends, patterns, and growth opportunities.
 - **Tools**: R, ggplot2, dplyr
 - **Repository**: [Sales Data Analysis](link-to-repository)
-- 
+
 ### 2. Customer Segmentation
 - **Description**: Harnessing the power of K-Means Clustering to group customers based on their purchasing behavior.
 - **Tools**: Python, Pandas, Scikit-learn, Matplotlib
