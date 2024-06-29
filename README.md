@@ -15,25 +15,25 @@ Hi there! I'm a passionate data analyst who loves diving into data to uncover hi
 
 ## 🚀 Projects
 
-### 1. Sales Data Analysis
+### 1. Sales Performance Analysis
 - **Description**: Diving into sales data to uncover trends, patterns, and growth opportunities.
 - **Tools**: R, ggplot2, dplyr
-- **Repository**: [Sales Data Analysis](link-to-repository)
+- **Repository**: [Sales Performance Analysis](link-to-repository)
 
 ### 2. Customer Segmentation
 - **Description**: Harnessing the power of K-Means Clustering to group customers based on their purchasing behavior.
 - **Tools**: Python, Pandas, Scikit-learn, Matplotlib
 - **Repository**: [Customer Segmentation](link-to-repository)
 
-### 3. Predictive Maintenance
-- **Description**: Building predictive models to forecast machinery failures and optimize maintenance schedules.
-- **Tools**: Python, Scikit-learn, Pandas, Matplotlib
-- **Repository**: [Predictive Maintenance](link-to-repository)
-
-### 4. A/B Testing Analysis
+### 3. A/B Testing Analysis
 - **Description**: Conducting A/B tests to evaluate and refine marketing strategies.
 - **Tools**: Python, SciPy, Matplotlib
 - **Repository**: [A/B Testing Analysis](link-to-repository)
+
+### 4. Predictive Maintenance
+- **Description**: Building predictive models to forecast machinery failures and optimize maintenance schedules.
+- **Tools**: Python, Scikit-learn, Pandas, Matplotlib
+- **Repository**: [Predictive Maintenance](link-to-repository)
 
 ## 🛠️ Skills
 
