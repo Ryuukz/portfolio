@@ -17,7 +17,7 @@ Hi there! I'm a passionate data analyst who loves diving into data to uncover hi
 
 ### 1. Sales Performance Analysis
 - **Description**: Diving into sales data to uncover trends, patterns, and growth opportunities.
-- **Tools**: R, ggplot2, dplyr
+- **Tools**: Python, Pandas, Numpy, Matplotlib, Seaborn
 - **Repository**: [Sales Performance Analysis](link-to-repository)
 
 ### 2. Customer Segmentation
