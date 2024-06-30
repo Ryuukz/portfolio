@@ -30,7 +30,8 @@ Hi there! I'm a passionate data analyst who loves diving into data to uncover hi
 ### 3. Predictive Maintenance
 - **Description**: Building predictive models to forecast machinery failures and optimize maintenance schedules.
 - **Tools**: Python, Scikit-learn, Pandas, Matplotlib
-- **Repository**: [Predictive Maintenance](link-to-repository)
+- **Repository**: [Google Slides](https://docs.google.com/presentation/d/1Y_M6xFlR07QXRSAAtDv2X6Di2nkgV_8rSmBA30luTrw/edit?usp=sharing)
+                  [Google Sheets](https://docs.google.com/spreadsheets/d/19jTe9fmtajaJi0_5uzm4fU3boT7h_cmr7W_qPAKopDQ/edit?usp=sharing)
 
 ## 🛠️ Skills
 
