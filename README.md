@@ -53,7 +53,7 @@ Here's a bunch of skills required to do the analysis:
 - **Data Analysis**: Pandas, NumPy
 - **Data Visualization**: Matplotlib, Seaborn
 - **Machine Learning**: Scikit-learn
-- **Databases**: MySQL, PostgreSQL, Google Cloud Bigquery
+- **Databases**: MySQL, Google Cloud Bigquery
 - **Others**: Tableau, Excel, Google Sheets, Google Colab
 
 ## 📬 Contact
