@@ -35,9 +35,15 @@ Hi there! I'm a passionate data analyst who loves diving into data to uncover hi
 
 ### 4. Cohort Analysis
 - **Description**: Pinpoint underperfoming categories and optimize resource allocation amidst potential crises.
-- **Tools**: Google Sheets, XLMinerTools
+- **Tools**: Google Cloud Bigquery
 - **Repository**: [Google Slides](https://docs.google.com/presentation/d/1zdu5zTl-DOFyi_SwDbXNa0p09Wbl4mTZlgsqtkdvEkg/edit?usp=sharing)
                   [Google Cloud Bigquery](https://console.cloud.google.com/bigquery?sq=820298719040:c4ba8ec0f22e4492a2cd05d5d21d3db6)
+
+### 5. Data Visualization
+- **Description**: Utilizing dashboard as graphical representation of information and data.
+- **Tools**: Tableau
+- **Repository**: [Google Slides](https://docs.google.com/presentation/d/1p_sc4i2OpFwM9UxQvvXFIGACPQkYUhm2GGTzxfUGy2A/edit?usp=sharing)
+                  [Tableau](https://public.tableau.com/views/IntermediateAssignment_17122917849160/CEODashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## 🛠️ Skills
 
