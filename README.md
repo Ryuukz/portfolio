@@ -19,11 +19,13 @@ Hi there! I'm a passionate data analyst who loves diving into data to uncover hi
 - **Description**: Diving into sales data to uncover trends, patterns, and growth opportunities.
 - **Tools**: Python, Pandas, Numpy, Matplotlib, Seaborn
 - **Repository**: [Sales Performance Analysis](https://colab.research.google.com/drive/1gDPcomRkttCSIL8jTTC9NwOWhRy0r588?usp=sharing)
+                  [Milestone 1 Presentation](https://docs.google.com/presentation/d/14wxJ37KGoULEOBW4rBPfjXnuEx7ILAAmJbSE7CxcESc/edit?usp=sharing)
 
 ### 2. Customer Segmentation
 - **Description**: Harnessing the power of K-Means Clustering to group customers based on their purchasing behavior.
 - **Tools**: Python, Pandas, Scikit-learn, Matplotlib
 - **Repository**: [Customer Segmentation](https://colab.research.google.com/drive/1gDPcomRkttCSIL8jTTC9NwOWhRy0r588?usp=sharing)
+                  [Milestone 2 Presentation](https://docs.google.com/presentation/d/14wxJ37KGoULEOBW4rBPfjXnuEx7ILAAmJbSE7CxcESc/edit?usp=sharing)
 
 ### 3. A/B Testing Analysis
 - **Description**: Conducting A/B tests to evaluate and refine marketing strategies.
