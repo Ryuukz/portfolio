@@ -62,6 +62,5 @@ I'm always excited to connect and collaborate! Feel free to reach out if you hav
 
 - **Email**: [gunadinagawijaya@gmail.com](mailto:gunadinagawijaya@gmail.com)
 - **LinkedIn**: [my-linkedin-profile](https://www.linkedin.com/in/gunadi-naga-wijaya-432226151/)
-- **Portfolio Website**: [my-portfolio-summary](link-to-website)
 
 Thank you for visiting my portfolio! Have a fantastic day! 🎉
