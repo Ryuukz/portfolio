@@ -44,7 +44,7 @@ Here's a bunch of skills required to do the analysis:
 - **Data Visualization**: Matplotlib, Seaborn, ggplot2
 - **Machine Learning**: Scikit-learn
 - **Databases**: MySQL, PostgreSQL
-- **Others**: Tableau, Excel
+- **Others**: Tableau, Excel, Google Colab
 
 ## 📬 Contact
 
