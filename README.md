@@ -23,8 +23,9 @@ Hi there! I'm a passionate data analyst who loves diving into data to uncover hi
 
 ### 2. A/B Testing Analysis
 - **Description**: Conducting A/B tests to evaluate and refine marketing strategies.
-- **Tools**: Python, SciPy, Matplotlib
-- **Repository**: [A/B Testing Analysis](link-to-repository)
+- **Tools**: Google Sheets, XLMinerTools
+- **Repository**: [Google Slides](https://docs.google.com/presentation/d/1rUn9T_2S-0WqqwXxibc0REPwAaDemBtKlCMedK9-U_M/edit?usp=sharing)
+                  [Google Sheets](https://docs.google.com/spreadsheets/d/1nYWtJLn9JH0nBI_PbiuEnlfzHCtk83VfXuPhEa-PV8Q/edit?usp=sharing)
 
 ### 3. Predictive Maintenance
 - **Description**: Building predictive models to forecast machinery failures and optimize maintenance schedules.
