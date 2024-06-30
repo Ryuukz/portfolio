@@ -23,7 +23,7 @@ Hi there! I'm a passionate data analyst who loves diving into data to uncover hi
 ### 2. Customer Segmentation
 - **Description**: Harnessing the power of K-Means Clustering to group customers based on their purchasing behavior.
 - **Tools**: Python, Pandas, Scikit-learn, Matplotlib
-- **Repository**: [Customer Segmentation](link-to-repository)
+- **Repository**: [Customer Segmentation](https://colab.research.google.com/drive/1gDPcomRkttCSIL8jTTC9NwOWhRy0r588?usp=sharing)
 
 ### 3. A/B Testing Analysis
 - **Description**: Conducting A/B tests to evaluate and refine marketing strategies.
