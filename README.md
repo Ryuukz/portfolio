@@ -27,7 +27,7 @@ Hi there! I'm a passionate data analyst who loves diving into data to uncover hi
 - **Repository**: [Google Slides](https://docs.google.com/presentation/d/1rUn9T_2S-0WqqwXxibc0REPwAaDemBtKlCMedK9-U_M/edit?usp=sharing)
                   [Google Sheets](https://docs.google.com/spreadsheets/d/1nYWtJLn9JH0nBI_PbiuEnlfzHCtk83VfXuPhEa-PV8Q/edit?usp=sharing)
 
-### 3. Predictive Maintenance
+### 3. Predictive Linear Regression Model
 - **Description**: Building predictive models to forecast annual customer spending and optimize the amount.
 - **Tools**: Google Sheets, XLMinerTools
 - **Repository**: [Google Slides](https://docs.google.com/presentation/d/1Y_M6xFlR07QXRSAAtDv2X6Di2nkgV_8rSmBA30luTrw/edit?usp=sharing)
